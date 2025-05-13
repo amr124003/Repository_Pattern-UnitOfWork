@@ -1,0 +1,11 @@
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.Core\bin\Debug\net8.0\RepositoryPattern.Core.deps.json
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.Core\bin\Debug\net8.0\RepositoryPattern.Core.dll
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.Core\bin\Debug\net8.0\RepositoryPattern.Core.pdb
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.Core\obj\Debug\net8.0\RepositoryPattern.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.Core\obj\Debug\net8.0\RepositoryPattern.Core.AssemblyInfoInputs.cache
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.Core\obj\Debug\net8.0\RepositoryPattern.Core.AssemblyInfo.cs
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.Core\obj\Debug\net8.0\RepositoryPattern.Core.csproj.CoreCompileInputs.cache
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.Core\obj\Debug\net8.0\RepositoryPattern.Core.dll
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.Core\obj\Debug\net8.0\refint\RepositoryPattern.Core.dll
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.Core\obj\Debug\net8.0\RepositoryPattern.Core.pdb
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.Core\obj\Debug\net8.0\ref\RepositoryPattern.Core.dll

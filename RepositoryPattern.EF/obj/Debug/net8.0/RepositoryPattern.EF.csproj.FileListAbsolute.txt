@@ -1,0 +1,17 @@
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.EF\bin\Debug\net8.0\RepositoryPattern.EF.deps.json
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.EF\bin\Debug\net8.0\RepositoryPattern.EF.runtimeconfig.json
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.EF\bin\Debug\net8.0\RepositoryPattern.EF.dll
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.EF\bin\Debug\net8.0\RepositoryPattern.EF.pdb
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.EF\obj\Debug\net8.0\RepositoryPattern.EF.csproj.AssemblyReference.cache
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.EF\obj\Debug\net8.0\RepositoryPattern.EF.GeneratedMSBuildEditorConfig.editorconfig
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.EF\obj\Debug\net8.0\RepositoryPattern.EF.AssemblyInfoInputs.cache
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.EF\obj\Debug\net8.0\RepositoryPattern.EF.AssemblyInfo.cs
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.EF\obj\Debug\net8.0\RepositoryPattern.EF.csproj.CoreCompileInputs.cache
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.EF\obj\Debug\net8.0\RepositoryPattern.EF.dll
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.EF\obj\Debug\net8.0\refint\RepositoryPattern.EF.dll
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.EF\obj\Debug\net8.0\RepositoryPattern.EF.pdb
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.EF\obj\Debug\net8.0\RepositoryPattern.EF.genruntimeconfig.cache
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.EF\obj\Debug\net8.0\ref\RepositoryPattern.EF.dll
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.EF\bin\Debug\net8.0\RepositoryPattern.Core.dll
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.EF\bin\Debug\net8.0\RepositoryPattern.Core.pdb
+E:\backend\Repository Pattern\RepositoryPattern\RepositoryPattern.EF\obj\Debug\net8.0\Reposito.2C18524D.Up2Date
